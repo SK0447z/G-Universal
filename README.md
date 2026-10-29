@@ -2,6 +2,11 @@
 
 G-Universal is a lightweight, low-overhead hardware control utility for Windows laptops. It provides direct hardware control for performance profiles, CPU boost modes, display refresh rates, keyboard lighting, battery health limits, and telemetry polling without requiring background OEM services or telemetry packages.
 
+<img width="843" height="902" alt="image" src="https://github.com/user-attachments/assets/2a9363ba-57a8-46b3-b79e-4c633b6b0ef8" />
+
+<img width="790" height="836" alt="image" src="https://github.com/user-attachments/assets/f14efbb8-be56-4bab-8199-7bb6a34c41a5" />
+
+
 ## Architecture
 
 The project is structured around an extensible hardware abstraction layer centered on `ILaptopProvider`:
